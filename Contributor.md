@@ -5,6 +5,7 @@ This is a repo created to remember the Hacktober Fest organized by Github, Digit
 
 ### Please Enter your details and be part of the HacktoberFest2018
 * [Your Name](http://yourgithuburl) | [Your School/Uni](https://www.youruniurl/)
+* [Sai Yerni Akhil M](https://github.com/saiyerniakhil)| [Sathyabama Institute of Science nad Technology](http://www.sathyabama.ac.in/)
 * [Saurav Jaiswal](https://github.com/sauravjaiswalsj) | [Sathyabama Institute of Science and Technology](http://www.sathyabama.ac.in/)
 * [Abhishek Kumar](https://github.com/imabhishekkumar) | [Sathyabama Institute of Science and Technology](http://www.sathyabama.ac.in/)
 
