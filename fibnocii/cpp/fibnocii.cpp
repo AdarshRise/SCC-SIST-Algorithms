@@ -1,4 +1,3 @@
-// add your code here
 
 #include<iostream>
 using namespace std;
@@ -10,11 +9,13 @@ void fibo()
   cin>>input;
   for(i=0;i<input;i++)
   {
-    cout<<"n"<<i+1<<"."<<num1+num2<<" "; // Printing next number
+    cout<<" num"<<i+1<<": "<<num1+num2<<" "; // Printing next number
 
-    num1=num1+num2;       // next number pair without temp
+    num1=num1+num2;       //   moving to the next number by swap
     num2=num1-num2;
     num1=num1-num2;
+
+    num2= num1+num2;     //  next value updated
   }
 }
 
