@@ -1,5 +1,6 @@
-
-#include<iostream>
+//add your code here
+#include<conio.h>
+#include<stdio.h>
 
 void bubble_sort(int ar[],int n)
 {
@@ -18,15 +19,16 @@ void bubble_sort(int ar[],int n)
     }
 
     for(i=0;i<10;i++)            // Printing the sorted array
-    {cout<<" "<<ar[i]<<" ";
-
+    {printf(" %d ",ar[i]);}
 }
 
 void main(void)
 {int i,ar[10];
-  cout<<" Enter 10 elemetns of array: ";
-                                                    //Input taken
+  printf(" Enter 10 elements of array: ");
+                                                  //Input taken
   for(i=0;i<10;i++)
-      {cin>>ar[i];
-        bubble_sort(ar,10);              // funtion call
+      {scanf("%d",&ar[i]);}
+
+    bubble_sort(ar,10);              // funtion call
+  getch();
 }
