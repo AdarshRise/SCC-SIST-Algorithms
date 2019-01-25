@@ -1,5 +1,4 @@
-ids
-i## Welcome to the SCC-SIST-Algorithms
+## Welcome to the SCC-SIST-Algorithms
 
 sample content
 This repository is a part of [ HacktoberFest -an event organised by DigitalOcean ](https://hacktoberfest.digitalocean.com/). 
